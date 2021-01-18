@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MakakaMama xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Deti>
+    <MakakaDeti>
+      <Name>Dimas</Name>
+    </MakakaDeti>
+    <MakakaDeti>
+      <Name>Sasha</Name>
+    </MakakaDeti>
+  </Deti>
+  <Name>Lera</Name>
+  <Age>59</Age>
+</MakakaMama>
